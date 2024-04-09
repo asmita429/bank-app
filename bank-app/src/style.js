@@ -2,19 +2,19 @@ const styles = {
   boxWidth: "xl:max-w-[1280px] w-full",
 
   heading2:
-    "font-poppins font-semibold xs:text-[48px] text-[40px] text-white xs:leading-[76.8px] leading-[66.8px] w-full",
+    "font-poppins font-semibold xs:text-[28px] text-[28px] text-white xs:leading-[56.8px] leading-[46.8px] w-full",
   paragraph:
-    "font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px]",
+    "font-poppins font-normal text-dimWhite text-[12px] leading-[46.8px]",
 
   flexCenter: "flex justify-center items-center",
   flexStart: "flex justify-center items-start",
 
-  paddingX: "sm:px-16 px-6",
-  paddingY: "sm:py-16 py-6",
-  padding: "sm:px-16 px-6 sm:py-12 py-4",
+  paddingX: "sm:px-12 px-4",
+  paddingY: "sm:py-12 py-4",
+  padding: "sm:px-12 px-4 sm:py-10 py-3",
 
-  marginX: "sm:mx-16 mx-6",
-  marginY: "sm:my-16 my-6",
+  marginX: "sm:mx-12 mx-4",
+  marginY: "sm:my-12 my-4",
 };
 
 export const layout = {
